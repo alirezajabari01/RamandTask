@@ -1,0 +1,6 @@
+@RamandTask_HostAddress = http://localhost:5220
+
+GET {{RamandTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

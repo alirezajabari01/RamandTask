@@ -1,0 +1,17 @@
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Persistence.EF.deps.json
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Persistence.EF.dll
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Persistence.EF.pdb
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.AssemblyInfoInputs.cache
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.AssemblyInfo.cs
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.csproj.CoreCompileInputs.cache
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.dll
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\refint\Persistence.EF.dll
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.pdb
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\ref\Persistence.EF.dll
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.csproj.AssemblyReference.cache
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Persistence.EF.runtimeconfig.json
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Domain.dll
+E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Domain.pdb
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persiste.42C581E0.Up2Date
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.genruntimeconfig.cache

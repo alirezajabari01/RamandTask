@@ -1,0 +1,17 @@
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Application.Contract.deps.json
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Application.Contract.dll
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Application.Contract.pdb
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.AssemblyInfoInputs.cache
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.AssemblyInfo.cs
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.csproj.CoreCompileInputs.cache
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.dll
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\refint\Application.Contract.dll
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.pdb
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\ref\Application.Contract.dll
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Domain.dll
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Persistence.EF.dll
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Domain.pdb
+E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Persistence.EF.pdb
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.csproj.AssemblyReference.cache
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Applicat.4C54754D.Up2Date

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tasks\\RamandTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|e:\\tasks\\ramandtask\\persistence.ef\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD8EA63-744E-4B01-876E-D053ADAC9642}|RamandTask\\RamandTask.csproj|e:\\tasks\\ramandtask\\ramandtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD8EA63-744E-4B01-876E-D053ADAC9642}|RamandTask\\RamandTask.csproj|solutionrelative:ramandtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|e:\\tasks\\ramandtask\\persistence.ef\\users\\passwordtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\users\\passwordtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|e:\\tasks\\ramandtask\\persistence.ef\\users\\usernametypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\users\\usernametypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BB6FC-D92A-4167-968F-6992BB15A38F}|Domain\\Domain.csproj|e:\\tasks\\ramandtask\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BB6FC-D92A-4167-968F-6992BB15A38F}|Domain\\Domain.csproj|solutionrelative:domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BB6FC-D92A-4167-968F-6992BB15A38F}|Domain\\Domain.csproj|e:\\tasks\\ramandtask\\domain\\users\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BB6FC-D92A-4167-968F-6992BB15A38F}|Domain\\Domain.csproj|solutionrelative:domain\\users\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|e:\\tasks\\ramandtask\\persistence.ef\\context\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\context\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|e:\\tasks\\ramandtask\\persistence.ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B71B4-3670-4B66-9C03-F0001187B0AE}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD8EA63-744E-4B01-876E-D053ADAC9642}|RamandTask\\RamandTask.csproj|e:\\tasks\\ramandtask\\ramandtask\\controllers\\clients\\v1\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD8EA63-744E-4B01-876E-D053ADAC9642}|RamandTask\\RamandTask.csproj|solutionrelative:ramandtask\\controllers\\clients\\v1\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordTypeHandler.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\PasswordTypeHandler.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Users\\PasswordTypeHandler.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\PasswordTypeHandler.cs",
+              "RelativeToolTip": "Persistence.EF\\Users\\PasswordTypeHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:42:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\RamandTask\\Program.cs",
+              "RelativeDocumentMoniker": "RamandTask\\Program.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\RamandTask\\Program.cs",
+              "RelativeToolTip": "RamandTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:40:23.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Persistence.EF\\Context\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Context\\DependencyInjection.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Persistence.EF\\Context\\DependencyInjection.cs",
+              "RelativeToolTip": "Persistence.EF\\Context\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:40:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserNameTypeHandler.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\UserNameTypeHandler.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Users\\UserNameTypeHandler.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\UserNameTypeHandler.cs",
+              "RelativeToolTip": "Persistence.EF\\Users\\UserNameTypeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:39:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Users\\User.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Domain\\Users\\User.cs",
+              "RelativeToolTip": "Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:38:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Domain\\Users\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Users\\Contracts\\IUserRepository.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Domain\\Users\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Users\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:41:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Persistence.EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Models\\User.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Persistence.EF\\Models\\User.cs",
+              "RelativeToolTip": "Persistence.EF\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:41:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\RamandTask\\Controllers\\Clients\\V1\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "RamandTask\\Controllers\\Clients\\V1\\AuthenticationController.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\RamandTask\\Controllers\\Clients\\V1\\AuthenticationController.cs",
+              "RelativeToolTip": "RamandTask\\Controllers\\Clients\\V1\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:33:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Users\\UserRepository.cs",
+              "ToolTip": "E:\\Tasks\\RamandTask\\Persistence.EF\\Users\\UserRepository.cs",
+              "RelativeToolTip": "Persistence.EF\\Users\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:26:45.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
