@@ -9,3 +9,4 @@ E:\Tasks\RamandTask\Domain\obj\Debug\net8.0\Domain.dll
 E:\Tasks\RamandTask\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\Tasks\RamandTask\Domain\obj\Debug\net8.0\Domain.pdb
 E:\Tasks\RamandTask\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Tasks\RamandTask\Domain\obj\Debug\net8.0\Domain.sourcelink.json

@@ -90,3 +90,4 @@ E:\Tasks\RamandTask\RamandTask\bin\Debug\net8.0\Application.Contract.pdb
 E:\Tasks\RamandTask\RamandTask\bin\Debug\net8.0\Application.pdb
 E:\Tasks\RamandTask\RamandTask\bin\Debug\net8.0\Domain.pdb
 E:\Tasks\RamandTask\RamandTask\bin\Debug\net8.0\Persistence.EF.pdb
+E:\Tasks\RamandTask\RamandTask\obj\Debug\net8.0\RamandTask.sourcelink.json

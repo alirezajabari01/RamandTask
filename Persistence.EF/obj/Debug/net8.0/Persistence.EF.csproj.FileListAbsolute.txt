@@ -15,3 +15,4 @@ E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Domain.dll
 E:\Tasks\RamandTask\Persistence.EF\bin\Debug\net8.0\Domain.pdb
 E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persiste.42C581E0.Up2Date
 E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.genruntimeconfig.cache
+E:\Tasks\RamandTask\Persistence.EF\obj\Debug\net8.0\Persistence.EF.sourcelink.json

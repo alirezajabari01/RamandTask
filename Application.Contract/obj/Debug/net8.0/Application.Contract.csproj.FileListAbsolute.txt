@@ -15,3 +15,4 @@ E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Domain.pdb
 E:\Tasks\RamandTask\Application.Contract\bin\Debug\net8.0\Persistence.EF.pdb
 E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.csproj.AssemblyReference.cache
 E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Applicat.4C54754D.Up2Date
+E:\Tasks\RamandTask\Application.Contract\obj\Debug\net8.0\Application.Contract.sourcelink.json

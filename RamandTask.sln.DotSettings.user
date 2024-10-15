@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c98620f7_002Dd7af_002D4f83_002D9854_002D4026e19cd3dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LoginAsync_Must_Throw_Exception_When_UserName_Is_InCorrect" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D4874311-8015-45B4-96E5-B0F1A45618D4::net8.0::Application.Test.UserServiceTests.LoginAsync_Must_Throw_Exception_When_UserName_Is_InCorrect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D4874311-8015-45B4-96E5-B0F1A45618D4::net8.0::Application.Test.UserServiceTests.LoginAsync_Must_Return_User_When_UserName_And_Password_Is_Correct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F5F89429-AD9C-4C06-92D7-EA8822C240EC::net8.0::Api.Test.UsersControllerTests.GetAll_Should_Return_Users_When_Valid_Token&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

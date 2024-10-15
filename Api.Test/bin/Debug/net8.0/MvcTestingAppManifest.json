@@ -1,0 +1,8 @@
+{
+  "Application.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\Application.Contract",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\Application",
+  "Application.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\Application.Test",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\Domain",
+  "Persistence.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\Persistence.EF",
+  "RamandTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Tasks\\RamandTask\\RamandTask"
+}

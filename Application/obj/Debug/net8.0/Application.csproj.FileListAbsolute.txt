@@ -17,3 +17,4 @@ E:\Tasks\RamandTask\Application\bin\Debug\net8.0\Application.Contract.dll
 E:\Tasks\RamandTask\Application\bin\Debug\net8.0\Persistence.EF.dll
 E:\Tasks\RamandTask\Application\bin\Debug\net8.0\Application.Contract.pdb
 E:\Tasks\RamandTask\Application\bin\Debug\net8.0\Persistence.EF.pdb
+E:\Tasks\RamandTask\Application\obj\Debug\net8.0\Application.sourcelink.json

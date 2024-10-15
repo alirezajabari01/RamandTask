@@ -29,7 +29,6 @@ END;
 GO;
 
 CREATE PROC sp_GetAll
-@UserName NVARCHAR(50) , @Password NVARCHAR(50)
 AS 
 BEGIN
 SELECT * FROM [User] 
